@@ -1,0 +1,27 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\hvac_drv_top_1v1 2015.10.16.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\hvac_drv_top_1v1 2015.10.16.dsn")
+      (Path "Design Resources" ".\hvac_drv_top_1v1 2015.10.16.dsn"
+         "HVAC-DRV-TOP")
+      (Select "Design Resources" ".\hvac_drv_top_1v1 2015.10.16.dsn"
+         "HVAC-DRV-TOP" "HVAC-DRV-TOP"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 292"))
+      (Tab 0))))

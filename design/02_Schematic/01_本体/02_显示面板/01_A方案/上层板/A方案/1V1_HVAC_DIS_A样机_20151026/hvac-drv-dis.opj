@@ -1,0 +1,36 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\hvac-drv-dis.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\hvac-drv-dis.dsn")
+      (Path "Design Resources" ".\hvac-drv-dis.dsn" "DIS")
+      (Select "Design Resources" ".\hvac-drv-dis.dsn" "DIS" "PANEL"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 213"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1236 50 305")
+        (Scroll "-42 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\SVN\HVACPROJ\03_ELECTRON\02_SCHEMATIC\01_本体\02_显示面板\上层板\A方案\1V1_HVAC_DIS_A样机_20151026\HVAC-DRV-DIS.DSN")
+      (Schematic "DIS")
+      (Page "PANEL"))))

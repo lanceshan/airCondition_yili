@@ -1,0 +1,59 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File
+       "E:\SVN\hvacproj\03_Electron\02_Schematic\01_本体\02_显示面板\下层板\HVAC-DRV-DIS_20160329.DSN"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "8")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File
+       "C:\Users\Administrator\Desktop\HVAC\DISPLAY\top\newtop4.asc")
+    (OTHER_Netlist_File2 "HVAC-DRV-DIS.CMP")
+    (OTHER_View_Output "FALSE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "orPadspcb.dll")
+    (OTHER_PCB_Footprint "{PCB Footprint}")
+    (OTHER_Switch0 "FALSE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE"))
+  (Folder "Outputs"
+    (File "c:\users\administrator\desktop\hvac\display\top\newtop1.asc"
+      (Type "Report"))
+    (File "c:\users\administrator\desktop\hvac\display\top\newtop2.asc"
+      (Type "Report"))
+    (File "c:\users\administrator\desktop\hvac\display\top\newtop3.asc"
+      (Type "Report"))
+    (File "c:\users\administrator\desktop\hvac\display\top\newtop4.asc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (CON8
+      (FullPartName "CON8.Normal")
+      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON8B
+      (FullPartName "CON8B.Normal")
+      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "E:\SVN\hvacproj\03_Electron\02_Schematic\01_本体\02_显示面板\下层板\HVAC-DRV-DIS_20160329.DSN"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 217"))
+      (Tab 0)))
+  (ISPCBBASICLICENSE "false"))
